@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ShigarakiDSeaux
+- 👋 Hi, I’m Samuel Maxey!
 - 👀 I’m interested in 3D modeling, Data Science, app development
 - 🌱 I’m currently learning G code and more about Java/Python
 - 💞️ I’m looking to collaborate on All of my code. Feel free too fork and edit!!
